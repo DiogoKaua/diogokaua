@@ -1,4 +1,4 @@
-### olá eu sou Diogo Kauã, estudante de desenvolvimento web 
+### bem vindo! eu sou Diogo Kauã, estudante de desenvolvimento web 
 
 
  
