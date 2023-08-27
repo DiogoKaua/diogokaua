@@ -26,5 +26,5 @@
   <a href="facebook.com/diogo.kaua.sm" alt="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
   
-  ![snake gif](https://github.com/DiogoKaua/diogokaua/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/DiogoKaua/DiogoKaua/blob/output/github-contribution-grid-snake.svg)
 
