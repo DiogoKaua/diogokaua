@@ -74,23 +74,19 @@
 </div><br>
 
 <div align="center">
-  <a href="facebook.com/diogo.kaua.sm" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.facebook.com/diogo.kaua.sm/" target="_blank"><img src="https://img.shields.io/badge/Facebook-Connect-brightgreen?style=for-the-badge&labelColor=black&logo=facebook" target="_blank"></a>
   <a href="https://www.instagram.com/diogo_ksm" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/edududuribeiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:diogokauasm@gmail.com.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:diogokauasm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 <div align="center">
 
   ![Snake animation](https://github.com/DiogoKaua/DiogoKaua/blob/output/github-contribution-grid-snake.svg)
-  
+  ![snake gif](https://github.com/DiogoKaua/DiogoKaua/blob/output/github-contribution-grid-snake.svg)
 </div>
 
-<div align="center">
-  <p>Feito com :heart: e JavaScript.</p>
-  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
+  
+  
 
-  
-  
-  ![snake gif](https://github.com/DiogoKaua/DiogoKaua/blob/output/github-contribution-grid-snake.svg)
 
