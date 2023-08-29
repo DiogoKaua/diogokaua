@@ -30,7 +30,7 @@
   
   <h1 align="center">
     Oi Tudo bem? Eu sou o 
-    <a href="https://www.linkedin.com/in/diogo-kau%C3%A3-533b0420b/">Diogo Kauã 😃️</a>
+    <a href="https://www.linkedin.com/in/diogo-kau%C3%A3-533b0420b/">Diogo Kauã</a>
   </h1>
   
 
