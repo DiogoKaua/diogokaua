@@ -82,9 +82,6 @@
 
 <div align="center">
 
-  ![Snake animation](https://github.com/DiogoKaua/DiogoKaua/blob/output/github-contribution-grid-snake.svg)
-  ![snake gif](https://github.com/DiogoKaua/DiogoKaua/blob/output/github-contribution-grid-snake.svg)
-
   ![snake animation](https://github.com/DiogoKaua/DiogoKaua/blob/output/github-contribution-grid-snake2.svg)
 
 </div>
