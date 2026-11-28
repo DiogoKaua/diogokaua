@@ -1,7 +1,7 @@
 ### bem vindo! eu sou Diogo Kauã, estudante de desenvolvimento web 
 
 
- 
+ #### Worldvectorlogo
  
 
 ## **Linguagens e Ferramentas:**  
@@ -44,6 +44,7 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoKaua&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
+
 
 <div align="center" valign="top"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
